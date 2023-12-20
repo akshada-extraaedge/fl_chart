@@ -458,7 +458,7 @@ class LineChartPainter extends AxisChartPainter<LineChartData> {
     }
   }
 
-  final xOffset = 0.1;
+  final xOffset = 0.0;
 
   /// firstly we generate the bar line that we should draw,
   /// then we reuse it to fill below bar space.
